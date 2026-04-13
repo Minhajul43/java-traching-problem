@@ -1,8 +1,8 @@
 public class Q15{  
   public static void main(String args[]){
-  int x = 0, y =0;
-  int sum = 0;
-  while (x < 10){
+   int x = 0, y =0;
+   int sum = 0;
+   while (x < 10){
       y = x - 3;
       y = 40;
       while (y > 22){
@@ -12,9 +12,9 @@ public class Q15{
           sum = sum + x * 3; 
         else 
           sum = sum + 23;
-   System.out.println(sum);
+      System.out.println(sum);
         y = y - 10;
-}
+     }
       x += 2;
     }
   }
