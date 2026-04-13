@@ -23,21 +23,35 @@ Perfect for students learning Java fundamentals, competitive programming beginne
 ## 📂 Repository Structure
 Java-Tracing-Problems/
 ├── 01_Conditional_Statements/
+
 │   ├── 01_Check_Positive_Negative.java
+
 │   ├── 02_Grade_Calculator.java
+
 │   ├── 03_Leap_Year.java
+
 │   └── ...
 ├── 02_Loops/
+
 │   ├── 01_Print_1_to_N.java
+
 │   ├── 02_Sum_of_First_N_Numbers.java
+
 │   ├── 03_Factorial.java
+
 │   ├── 04_Pattern_Printing/
+
 │   └── ...
+
 ├── 03_Mixed_Problems/
+
 │   └── ...
+
 ├── Tracing_Table_Examples/
-└── README.md
-text## 🛠 Topics Covered
+
+└── README.md text
+
+## 🛠 Topics Covered
 
 ### Conditional Statements
 - Simple `if` and `if-else`
