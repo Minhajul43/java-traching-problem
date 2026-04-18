@@ -24,5 +24,16 @@ public class Q16{
     result8 = ((var1 && result3) && (var5 || var6)) && true;
     result9 = ((result2 && var2) || (result7 && var1)) && false;
     result10 = !(var1 && true);
+
+    System.out.println(result1);
+    System.out.println(result2);
+    System.out.println(result3);
+    System.out.println(result4);
+    System.out.println(result5);
+    System.out.println(result6);
+    System.out.println(result7);
+    System.out.println(result8);
+    System.out.println(result9);
+    System.out.println(result10);
   }
 }
